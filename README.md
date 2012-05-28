@@ -1,0 +1,1 @@
+Okay, well this is my customization fo some other extension which does the same thing which didn't quite work for me. Hopefully this'll work for you too.
